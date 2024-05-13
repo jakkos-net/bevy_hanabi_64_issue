@@ -1,0 +1,9 @@
+[package]
+name = "bevy_hanabi_64_issue"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bevy = "0.13.2"
+bevy-inspector-egui = "0.24.0"
+bevy_hanabi = {git = "https://github.com/djeedai/bevy_hanabi"}
